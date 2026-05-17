@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aileen Wuornos | True Crime Denmark</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            font-family: Calibri, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            min-height: 100vh;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        a {
+            color: darkred;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="index.html">← Tilbage til forsiden</a>
+
+
+<!-- ÚJ BLOGBEJEGYZÉS MINTA -->
+        
+        <div class="blog-post">
+            <h2>Kvindelige massemordere</h2>
+
+<p>
+Det lesbiske par LaFonda Fay Foster og Tina Powell fra Lexington, Kentucky, var narkomaner, alkoholikere, strippere og prostituerede. LaFonda var berygtet for sit temperament. Den 23. april 1986 gik parret amok og tog fem af deres drikkekammerater som gidsler. Da de indså, at de ikke kunne få penge ud af ofrene, dræbte de gidslerne én efter én. De stak dem alle og skød dem også. De skar halsen over på én af dem, én døde af skuddene, og to blev kørt over med en bil. Deres sidste offer blev brændt levende. Allerede dagen efter blev de pågrebet. Tina fik livstid med mulighed for prøveløsladelse, mens LaFonda blev dømt til døden. Senere blev det benådet.
+</p>
+<p>
+Efter et kort fængselsophold for en mindre lovovertrædelse findes Esther Beckley sammen med Shane Harrison. I marts 1996 beslutter Esther og Shane at røve en videobutik, hvor de dræber tre ansatte og bedsteforældrene til en af de ansatte. Shane idømmes 258 års fængsel. Esther tilstår og idømmes 95 1/2 års fængsel. Hun kan ansøge om prøveløsladelse, når hun er 120 år gammel, hvilket betyder, at hun højst sandsynligt vil dø i fængslet.
+</p>
+<p>
+Jody Herring er en kvinde fra Vermont med store problemer, der på grund af sit stof- og alkoholmisbrug mister forældremyndigheden over sine tre børn. Familie og venner støtter hende, men udtrykker bekymring over hendes adfærd, hvilket yderligere fører til et brud med en kæreste og et selvmordsforsøg. I august 2015 stjæler Jody et jagtgevær og begiver sig ud på en mordtur, hvor hun myrder sin tante, Julie Falzarano, sine kusiner, Regina og Rhonda Herring, samt socialrådgiveren Lara Sobel. Uden anger eller samvittighedskvaler tilstår hun sig skyldig i ét tilfælde af overlagt mord og tre tilfælde af uagtsomt manddrab og bliver permanent adskilt fra sine børn, da hun idømmes livsvarig fængsel uden mulighed for prøveløsladelse.
+</p>
+<p>
+Susan Eubanks fra Californien hadede mænd; hun elskede ikke engang sine fire sønner. Da hendes sidste elsker også forlod hende, besluttede kvinden at hævne sig på det stærkere køn. Den 27. oktober 1996 ringede hun til sin eksmand og fortalte, at hun ville dræbe sine børn. Efter telefonopkaldet skød Susan først sin 14-årige søn Brandon. Derefter henrettede hun også sine tre yngre sønner. Mordene blev begået af en femte lille dreng. Massemorderen skød sig til sidst i maven for at vinde myndighedernes medfølelse. Det lykkedes ikke, for Susan blev dømt til døden. Siden da er hendes straf blevet omstødt til livsvarigt fængsel.
+</p>
+<p>
+Andrea Pia Yates fra Texas var meget troende. Hendes mand, Russell Yates, ønskede sig så mange børn som muligt, og Andrea fødte ham fem. Kvinden led af postpartum-psykose og vrangforestillinger, for eksempel var hun overbevist om, at hvis hun ikke dræbte sine børn, ville de ende i helvede. Den 20. juni 2001 fuldførte hun sin mission, det vil sige, at hun druknede sine fire sønner og sin lille datter i et badekar. Derefter lagde hun ofrene i sengen og ringede til sin mand, som kontaktede politiet. Andrea fortalte alt til efterforskerne og ønskede straks at blive sendt til dødsgangen. I stedet blev hun idømt livsvarig fængsel, og siden da har hun været indlagt på en psykiatrisk institution.
+</p>
+
+        </div>
+
+        <!-- ADSENSE HELYE -->
+        <div class="adsense-box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6088348392488500"
+     crossorigin="anonymous"></script>
+        </div>
+
+</body>
+</html>
