@@ -1,0 +1,84 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aileen Wuornos | True Crime Denmark</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            font-family: Calibri, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            min-height: 100vh;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        a {
+            color: darkred;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="index.html">← Tilbage til forsiden</a>
+<!-- ÚJ BLOGBEJEGYZÉS MINTA -->
+        
+        <div class="blog-post">
+            <h2>Unge kvinder, der en aften besluttede at blive massemordere</h2>
+
+<p>
+Navnene LaFonda Fay Foster og Tina Hickey Powell er forbundet med en af de mest berygtede sager om massemord begået af kvinder i USA. I april 1986 dræbte de fem mennesker i byen Lexington i Kentucky under et flere timer langt amokløb, der var præget af alkohol- og stofmisbrug.
+</p>
+<p>
+De to kvinder havde tidligere siddet i fængsel og kæmpede med alvorlige alkohol- og stofproblemer. De boede sammen og levede et voldeligt og ustabilt liv. Ifølge anklagemyndigheden udsprang begivenhederne af et forsøg på at skaffe penge, mens de var berusede og påvirket af kokain.
+</p>
+<p>
+Den 23. april 1986 dukkede de to kvinder op i ægteparret Kearns' lejlighed for at bede om penge. Selskabet drak sammen, hvorefter Carlos Kearns indløste en check for at skaffe dem penge. Situationen udviklede sig imidlertid gradvist til en brutal kidnapning og en række mord. De to kvinder slæbte fem mennesker – Carlos Kearns, Virginia Kearns, Trudy Harrell, Roger Keene og Theodore Sweet – rundt til forskellige steder i timevis. Ofrene blev bundet, stukket med kniv, skudt i hovedet, og nogle af dem blev også kørt ned eller kørt over med bil. De lod den ene mand brænde ihjel, efter at de havde sat ild til bilen.
+</p>
+ <p>
+Mordene chokerede især delstaten Kentucky på grund af den ekstraordinære brutalitet. Ifølge rapporterne forsøgte de to kvinder endda at skaffe yderligere ammunition undervejs, mens ofrene stadig var i live i bilen.
+</p>
+<p>
+Efter mordene tog Foster og Powell til et hospital for at vaske blodet af sig. Personalet der underrettede imidlertid politiet, som hurtigt anholdt dem.
+</p>
+<p>
+Under retssagen blev begge kvinders medvirken bevist. Foster blev især berygtet for sine udtalelser i fængslet: ifølge medfanger pralede hun med mordene og sammenlignede sig selv med Charles Manson.
+</p>
+<p>
+I 1987 blev de begge dømt for fem mord. Powell fik livstid, mens Foster fik dødsstraf. Kentuckys højesteret ophævede dog i 1991 Fosters dødsdom på grund af procedurefejl, så hun endte også med at få livstid.
+</p>
+<p>
+Sagen blev senere behandlet i flere dokumentarfilm og true crime-programmer, for eksempel i serien Deadly Women. Historien inspirerede også filmen 100 Proof fra 1997.
+</p>
+
+
+        </div>
+
+        <!-- ADSENSE HELYE -->
+        <div class="adsense-box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6088348392488500"
+     crossorigin="anonymous"></script>
+        </div>
+
+</body>
+</html>
