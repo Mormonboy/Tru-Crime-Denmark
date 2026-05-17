@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aileen Wuornos | True Crime Denmark</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            font-family: Calibri, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            min-height: 100vh;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        a {
+            color: darkred;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="index.html">← Tilbage til forsiden</a>
+ <h1>Ti ting, mange sandsynligvis ikke vidste om Aileen Wuornos</h1>
+
+<p>
+<b>Hun hævdede, at ofrene forsøgte at voldtage hende</b>
+</p>
+<p>
+Wuornos forklarede flere gange, at drabene skete i selvforsvar under sexarbejde langs Floridas motorveje. Retten accepterede ikke forklaringen i de fleste tilfælde.
+</p>
+<p>
+<b>Hun arbejdede som prostitueret ved motorvejene i Florida</b>
+</p>
+<p>
+Mange af hendes kunder var lastbilchauffører eller ældre mænd, som samlede hende op langs hovedvejene.
+</p>
+<p>
+<b>Hun blev dømt for seks mord – men tilstod syv</b>
+</p>
+<p>
+Hun blev officielt dømt i seks sager, men indrømmede i alt syv drab mellem 1989 og 1990.
+</p>
+<p>
+<b>Hun havde en ekstremt voldelig og kaotisk barndom</b>
+</p>
+<p>
+Hendes opvækst var præget af misbrug, hjemløshed og kriminalitet allerede fra en meget ung alder.
+</p>
+<p>
+<b>Hendes far var dømt seksualforbryder</b>
+</p>
+<p>
+Wuornos’ biologiske far sad i fængsel for seksuelle overgreb mod børn og døde senere i fængslet.
+</p>
+<p>
+<b>Hun giftede sig engang med en ældre mand i et meget kort ægteskab</b>
+</p>
+<p>
+I 1976 giftede hun sig med en rig yachtklubejer i Florida, men ægteskabet kollapsede hurtigt på grund af voldelige konflikter og hendes alkoholmisbrug.
+</p>
+<p>
+<b>Hun havde et intenst forhold til en anden kvinde</b>
+</p>
+<p>
+Tyria Moore var hendes partner og blev senere et vigtigt vidne mod hende efter at have samarbejdet med politiet.
+</p>
+<p>
+<b>Hun mente, at fængslet manipulerede hende</b>
+</p>
+<p>
+I sine sidste interviews talte Wuornos om overvågning, konspirationer og at fængselsmyndighederne “kontrollerede” hende psykisk.
+</p>
+<p>
+<b>Charlize Theron vandt en Oscar for at spille hende</b>
+</p>
+<p>
+Charlize Theron portrætterede Wuornos i filmen Monster og gennemgik en markant fysisk transformation til rollen.
+</p>
+<p>
+<b>Hendes sidste ord handlede om Jesu genkomst</b>
+</p>
+<p>
+Før henrettelsen i 2002 sagde hun blandt andet, at hun ville vende tilbage “som Independence Day med Jesus”. Hun blev henrettet ved dødelig indsprøjtning i Florida.
+
+</div>
+
+</body>
+</html>
+</p>
