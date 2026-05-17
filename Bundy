@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aileen Wuornos | True Crime Denmark</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            font-family: Calibri, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            min-height: 100vh;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        a {
+            color: darkred;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="index.html">← Tilbage til forsiden</a>
+
+<!-- ÚJ BLOGBEJEGYZÉS MINTA -->
+       
+        <div class="blog-post">
+            <h2>Ti ting du sikkert ikke vidste om Ted Bundy</h2>
+
+<p><b>1. Han arbejdede frivilligt på en krisetelefon for selvmordstruede</b> .</p>
+
+<p>Ted Bundy fremstillede sig selv som en hjælpsom og empatisk person, og han arbejdede på et krisecenter, hvor han talte med mennesker i psykisk krise – samtidig med at han selv begik alvorlige forbrydelser.</p>
+ <p><b>2. Han studerede jura og brugte sin viden til at undslippe politiet</b>.</p>
+ <p>Bundy læste jura og havde stor forståelse for retssystemet, hvilket hjalp ham med at forsvare sig selv i retten og endda flygte fra fængslet flere gange.</p> 
+<p><b>3. Han ændrede ofte sit udseende</b> .</p>
+<p>Han kunne se meget anderledes ud afhængigt af situationen – han ændrede frisure, skæg og stil for at undgå genkendelse.</p>
+ <p><b>4. Han blev betragtet som meget charmerende</b>.</p> 
+<p>Mange beskrev ham som intelligent, venlig og attraktiv, hvilket gjorde det lettere for ham at vinde folks tillid.</p>
+ <p><b>5. Han brugte ofte falske identiteter</b> .</p>
+<p>Bundy brugte flere aliaser og udgav sig for at være forskellige personer for at narre både kvinder og myndigheder.</p> 
+<p><b>6. Han undslap fra fængsel to gange</b>.</p> 
+<p>Han formåede at flygte fra fængslet ved to separate lejligheder, hvilket gjorde ham endnu mere berygtet.</p>
+ <p><b>7. Han studerede psykologi</b> .</p>
+<p>Han tog kurser i psykologi, hvilket senere blev analyseret som noget, der kunne have hjulpet ham med at forstå og manipulere mennesker.</p> 
+<p><b>8. Han giftede sig i retten</b> .</p>
+<p>Under en retssag giftede han sig med sin kæreste i retssalen, hvilket skabte stor mediebevågenhed.</p>
+ <p><b>9. Han nægtede længe sine forbrydelser</b>.</p>
+ <p>Bundy benægtede i lang tid alle anklager, selv når beviserne blev stærkere og stærkere.</p> 
+<p><b>10. Hans sag ændrede amerikansk kriminalhistorie</b> .</p>
+<p>Hans forbrydelser førte til større fokus på seriemordere i USA og ændrede måden politiet arbejdede på i flere stater.</p>
+
+        </div>
+
+                <!-- ADSENSE HELYE -->
+        <div class="adsense-box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6088348392488500"
+     crossorigin="anonymous"></script>
+        </div>
+</body>
+</html>
