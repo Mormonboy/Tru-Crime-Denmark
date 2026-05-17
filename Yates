@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aileen Wuornos | True Crime Denmark</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            font-family: Calibri, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            min-height: 100vh;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        a {
+            color: darkred;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="index.html">← Tilbage til forsiden</a>
+<!-- ÚJ BLOGBEJEGYZÉS MINTA -->
+       
+        <div class="blog-post">
+            <h2>Den mor, der druknede sine børn</h2>
+
+<p>
+Andrea Yates er en amerikansk kvinde, der i 2001 begik den forbrydelse i Texas, som gjorde hende kendt over hele verden. Sagen er blevet grundigt analyseret af kriminalteknikere, psykiatere og retssystemet, da den er tæt forbundet med alvorlige psykiske lidelser, postpartum-psykose og mangler i den psykiatriske behandling.
+</p>
+<p>
+Andrea Yates blev født i 1964 i Texas, USA. Som ung voksen uddannede hun sig til sygeplejerske og arbejdede senere som matematiklærer. Hun og hendes mand, Russell Yates, fik fem børn, og familien levede tilsyneladende et religiøst og velordnet liv i en forstad til Houston. Bag facaden kæmpede Andrea Yates imidlertid med alvorlige psykiske problemer, som gradvist blev værre efter fødslerne.
+</p>
+<p>
+Ifølge ekspertrapporter led Yates gentagne gange af fødselsdepression og psykose, der var ledsaget af hallucinationer, vrangforestillinger og alvorlige forstyrrelser i virkelighedsopfattelsen. Hun havde flere gange forsøgt at begå selvmord og havde tidligere været i psykiatrisk behandling. Hendes læger ordinerede en kraftig medicinsk behandling, og der blev i en periode observeret en forbedring, men den medicinske behandling blev senere afbrudt eller ændret, hvilket blev et omstridt element i forbindelse med de efterfølgende begivenheder.
+</p>
+<p>
+I juni 2001 begik Andrea Yates den tragiske handling, hvorved hendes fem børn mistede livet. Sagen udløste en enorm chokbølge i hele USA. Myndighederne anholdt hende hurtigt, og under efterforskningen forsøgte Yates ikke at flygte, men samarbejdede med politiet. Under afhøringerne var hun i en forvirret tilstand og afgav flere forskellige forklaringer, hvor hun nævnte årsager knyttet til religion og vrangforestillinger.
+</p>
+<p>
+Under retssagen var forsvarets hovedargument, at Andrea Yates ikke var tilregnelig på tidspunktet for handlingerne, da hun led af en alvorlig psykotisk episode. En del af eksperterne var enige om, at kvindens virkelighedsopfattelse var betydeligt forvrænget, og at hun ikke var i stand til at erkende konsekvenserne af sine handlinger. Anklagemyndigheden hævdede derimod, at Yates var bevidst om sine handlinger, og at der trods tidligere advarsler ikke var blevet grebet ind på passende vis.
+</p>
+<p>
+Ved afslutningen af den første retssag i 2002 blev Yates kendt skyldig og idømt livsvarig fængselsstraf. Dommen udløste imidlertid en betydelig samfundsdebat, især om grænsen mellem behandling af psykiske lidelser og strafferetligt ansvar. Mange mente, at sagen snarere var en følge af en alvorlig psykiatrisk krise end en forsætlig forbrydelse i »klassisk« strafferetlig forstand.
+</p>
+<p>
+I 2005 blev dommen ophævet efter en appel, og der blev afholdt en ny retssag. Under den nye retssag accepterede retten forsvaret »ikke skyldig på grund af sindssyge« (not guilty by reason of insanity). Som følge heraf kom Andrea Yates ikke i fængsel, men blev anbragt på en psykiatrisk institution i Texas, hvor hun er under konstant overvågning.
+</p>
+<p>
+Sagen havde stor indflydelse på den amerikanske offentlighed og opfattelsen af det psykiatriske sundhedssystem. Eksperter henviser stadig ofte til sagen som et eksempel på, hvilke tragiske konsekvenser alvorlige psykiatriske lidelser – især ubehandlet eller utilstrækkeligt behandlet postpartum-psykose – kan føre til.
+</p>
+<p>
+Andrea Yates' historie er siden da blevet et af de hyppigst analyserede tilfælde i kriminalistiske og psykiatriske studier, som rejser både medicinske, juridiske og etiske spørgsmål. Sagen understreger også, at behandling og erkendelse af psykiske lidelser kan være afgørende for at forebygge lignende tragedier, samt at grænseområderne mellem strafferet og psykiatri ofte er yderst komplekse.
+</p>
+
+
+        </div>
+
+                <!-- ADSENSE HELYE -->
+        <div class="adsense-box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6088348392488500"
+     crossorigin="anonymous"></script>
+        </div>
+</body>
+</html>
