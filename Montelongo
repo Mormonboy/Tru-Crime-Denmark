@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aileen Wuornos | True Crime Denmark</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            font-family: Calibri, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            min-height: 100vh;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        a {
+            color: darkred;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="index.html">← Tilbage til forsiden</a>
+
+<!-- ÚJ BLOGBEJEGYZÉS MINTA -->
+        
+        <div class="blog-post">
+            <h2>Hun gav sin slægtning offerets hoved i gave </h2>
+
+<p>
+Carmen Montelongo — også kendt som Carmen Montenegro — blev kendt i hele Californien efter et af de mest groteske drab i statens nyere historie. I 2011 dræbte hun sin tidligere kæreste, den 62-årige Samuel Wiggins Jr., i hans hjem i Diamond Bar i Californien. Ifølge anklagerne blev han stukket ned 24 gange, hvorefter hans lig blev skåret i stykker.
+</p>
+<p>
+Sagen blev først opdaget, da naboer i byen Ontario så Carmen skubbe en ildelugtende skraldespand gennem gaden. Politiet stoppede hende og fandt dele af et menneskeligt lig i beholderen. Efterforskningen afslørede hurtigt, at resten af kroppen var blevet begravet eller skjult forskellige steder hos familiemedlemmer.
+</p>
+<p>
+Det mest chokerende element i sagen var måden, hvorpå hun skjulte hovedet og armene. Efterforskerne fandt senere kropsdelene gemt i store blomsterpotter fyldt med jord. Potterne var blevet afleveret som gave til hendes tante omkring mors dag. Anklageren beskrev det som næsten ufatteligt kynisk, fordi kropsdelene bogstaveligt talt var blevet forklædt som almindelige blomsterdekorationer.
+</p>
+<p>
+Ifølge politiet forsøgte Carmen også at overtale slægtninge til at hjælpe med at skaffe sig af med resterne. Et familiemedlem fortalte senere, at hun tilbød penge for hjælp til at bortskaffe kroppen. Samtidig brugte hun offerets bil og bankkort efter hans forsvinden, hvilket blev en vigtig del af bevismaterialet mod hende.
+</p>
+<p>
+Sagen vakte enorm opsigt i amerikanske medier og blev senere omtalt i flere true crime-programmer, blandt andet i tv-serien Deadly Women. Mange efterforskere beskrev forbrydelsen som en af de mest makabre sager, de nogensinde havde arbejdet med.
+</p>
+<p>
+I 2014 blev Carmen Montelongo dømt for mord og idømt 26 år til livstid i fængsel.
+</p>
+
+
+
+        </div>
+
+        <!-- ADSENSE HELYE -->
+        <div class="adsense-box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6088348392488500"
+     crossorigin="anonymous"></script>
+        </div>
+
+</body>
+</html>
